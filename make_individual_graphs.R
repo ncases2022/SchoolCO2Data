@@ -23,7 +23,7 @@ for (x in 1:length(temp))
     theme_bw() + xlab("Time") + ylab("CO2 (PPM)") +
     scale_color_manual(values=rev(c("#7fc97f", "#beaed4","#fdc086"))) +
     scale_x_datetime(breaks = scales::date_breaks("1 hour"), date_labels = "%H:%M") +
-    geom_hline(yintercept = 1000, linetype="dotted", color = "gray", size=.5) + 
+    geom_hline(yintercept = 800, linetype="dotted", color = "gray", size=.5) + 
     labs(caption=file
     )
   print(graph);
