@@ -31,8 +31,8 @@ Parent-led Carbon Dioxide measurements taken in schools across Wake County in No
 Compiled by the NC Alliance for School Equity and Safety
 
 # Media Mentions
-[![CBS 17](images/CBS17.png)](https://www.cbs17.com/news/local-news/wake-county-news/parents-measure-co2-levels-in-wake-county-schools-findings-may-prompt-officials-to-act-on-better-ventilation/)
-[![Charlotte News & Observer](images/N&O.png)](https://www.newsobserver.com/news/local/education/article266746201.html)
+[![CBS 17](https://github.com/ncases2022/SchoolCO2Data/blob/main/Images/CBS17.png)](https://www.cbs17.com/news/local-news/wake-county-news/parents-measure-co2-levels-in-wake-county-schools-findings-may-prompt-officials-to-act-on-better-ventilation/)
+[![Charlotte News & Observer](https://github.com/ncases2022/SchoolCO2Data/blob/main/Images/N%26O.png)](https://www.newsobserver.com/news/local/education/article266746201.html)
 
 
 # Project Principles
