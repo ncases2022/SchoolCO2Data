@@ -49,6 +49,7 @@ Compiled by the NC Alliance for School Equity and Safety
 - 10/19/2022: Added media mentions and Twitter handle
     - Added WCPSSS district measurement from Scott's Ridge and changed WCPDD folders to differentiate parents measurements from school measurements. 
     - Added parent readings for 4 days in District 8 middle school.
+    - Updated R graph script for speed (skipping already made graphs).
 
 <!-- LICENSE -->
 ## License
