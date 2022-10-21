@@ -51,6 +51,10 @@ Compiled by the NC Alliance for School Equity and Safety
     - Added parent readings for 4 days in District 8 middle school.
     - Updated R graph script for speed (skipping already made graphs).
 - 10/20/2022: Switched Elem02 in District 6 to Elem04 in District 9.
+- 10/21/2022: Added Underwood Elem readings for 2 days in District 6.
+    - Added Ligon Middle School in District 4.
+    - Fixed flag in graph generation script. 
+
 
 <!-- LICENSE -->
 ## License

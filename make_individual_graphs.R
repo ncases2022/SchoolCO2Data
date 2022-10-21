@@ -19,7 +19,7 @@ for (x in 1:length(temp))
   if(file_exists & !overwrite){
     print(paste0("Graph found, Skipping: ",graph.file))
   }
-  if(!file_exists & overwrite){
+  if(!file_exists){
     d <- read.csv(file=file);
     names(d)
     max <- ceiling((max(d$CO2)+250)/100) * 100;
