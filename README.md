@@ -54,6 +54,8 @@ Compiled by the NC Alliance for School Equity and Safety
 - 10/21/2022: Added Underwood Elem readings for 2 days in District 6.
     - Added Ligon Middle School in District 4.
     - Fixed flag in graph generation script. 
+    - Added processing script. 
+    - Added Scotts Ridge Elem Portable
 
 
 <!-- LICENSE -->
