@@ -33,6 +33,7 @@ Compiled by the NC Alliance for School Equity and Safety
 # Media Mentions
 [![CBS 17](https://github.com/ncases2022/SchoolCO2Data/blob/main/Images/CBS17.png)](https://www.cbs17.com/news/local-news/wake-county-news/parents-measure-co2-levels-in-wake-county-schools-findings-may-prompt-officials-to-act-on-better-ventilation/)
 [![Charlotte News & Observer](https://github.com/ncases2022/SchoolCO2Data/blob/main/Images/N%26O.png)](https://www.newsobserver.com/news/local/education/article266746201.html)
+[![ABC11 Eyewitness News](https://github.com/ncases2022/SchoolCO2Data/blob/main/Images/ABC11.png)](https://abc11.com/wake-county-schools-nc-high-co2-levels-indoor-air-quality-students-parents/12437952/)
 
 
 # Project Principles
@@ -56,6 +57,7 @@ Compiled by the NC Alliance for School Equity and Safety
     - Fixed flag in graph generation script. 
     - Added processing script. 
     - Added Scotts Ridge Elem Portable
+- 11/10/2022: Added ABC11 Story
 
 
 <!-- LICENSE -->
